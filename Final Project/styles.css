@@ -1,0 +1,26 @@
+.indeedimg{
+  height:50px;
+  width: 50px;
+}
+body{
+  background-image: url("frontpic.jpeg");
+  background-repeat:no-repeat;
+}
+.page2{
+  margin-top: 10%;
+  padding:5%;
+}
+.pPadding , .hPadding{
+  padding: 5%;
+  margin-top: 10%;
+  padding-top: 0;
+}
+.hPadding{
+  border-bottom: 3px solid black;
+}
+#Indeed{
+  margin-left: 8%;
+}
+.article1{
+  margin-top: 10%;
+}
